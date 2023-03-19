@@ -1,5 +1,5 @@
 #contact{
-    padding-top: 4rem;
+    padding-top: 3rem;
     /* height: 100vh; */
 }
 .contact_container{
@@ -72,6 +72,10 @@
 }
 
 @media screen and (max-width:600px) {
+    #contact{
+        padding-top: 1rem;
+        /* height: 100vh; */
+    }
     .contact_container{
        width: var(--container-width-sm);
     }

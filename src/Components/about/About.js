@@ -38,7 +38,7 @@ function about() {
               want to enhance my professional Skills, capabilities and knowledge in your organization.             
           </p>
 
-          <a href='#contact' className='btn btn-primary'>Let's talk</a>
+          <a href='#contact' className='btn1 btn-primary'>Let's talk</a>
         </div>
       </div>
     </section>

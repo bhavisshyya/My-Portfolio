@@ -124,4 +124,7 @@
     .about-content p{
         margin: 1.5rem 0;
     }
+    .btn1{
+        display: none;
+    }
 }
