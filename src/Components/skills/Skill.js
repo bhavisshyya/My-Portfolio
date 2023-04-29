@@ -18,6 +18,13 @@ function Skill() {
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
+    <article className='experience-detail'>
+              <BsFillPatchCheckFill className='exp-icon' />
+              <div>
+                <h4>SCSS</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
             <article className='experience-detail'>
               <BsFillPatchCheckFill className='exp-icon' />
               <div>
