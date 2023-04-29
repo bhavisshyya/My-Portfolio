@@ -32,10 +32,17 @@ function about() {
           </div>
 
           <p>
-              Hey I'm Bhavishya Malhotra, persuing my Btech in JSS College Noida.I am full stack Web Developer. I have good command at solving problems quickly and have ability to perform well in the team. <br></br>
-              <br></br>
-              I have keen intrest in C++ , CSS , Java-Script , React and 
-              want to enhance my professional Skills, capabilities and knowledge in your organization.             
+               Hey I'm Bhavishya Malhotra, I'm pursuing my degree in Information
+            Technology and i have passion for Coding and Problem Solving.{" "}
+            <br></br>
+            <br></br>I am well acquainted with C++ , CSS , Java-Script , React,
+            NodeJS, Express and Mongo Db, etc. I am an eager Learner ,
+            constantly striving to improve my skills and stay ahead of latest
+            trends in Software Development. I am also a team player and enjoy
+            collabrating projects. I am Enthusiastic, Fast-Learner, Hardworking,
+            Creative, Innovative, Problem Solver. I want to enhance my
+            professional Skills, capabilities and knowledge in your
+            organization.     
           </p>
 
           <a href='#contact' className='btn1 btn btn-primary'>Let's talk</a>
