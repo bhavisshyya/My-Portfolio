@@ -22,7 +22,7 @@ function Skill() {
               <BsFillPatchCheckFill className='exp-icon' />
               <div>
                 <h4>SCSS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience-detail'>
