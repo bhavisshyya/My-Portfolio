@@ -4,7 +4,7 @@ function Cv() {
   return (
     <div className='Cv'>
       <a
-        href='https://drive.google.com/file/d/1TzGHqCCz6qWl5rWaCmQM070uIq3qsMy2/view?usp=sharing'
+        href='https://drive.google.com/file/d/1XxvgudKYLF5EWjZQ8Fgnz7BdbxvQjCAo/view?usp=sharing'
         download
         className='btn'
       >
